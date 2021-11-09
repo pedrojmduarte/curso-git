@@ -15,6 +15,8 @@ namespace projeto_teste
                 Console.WriteLine(i);
                 Console.WriteLine(i-1);
             }
+
+            Console.WriteLine("opa!");
         }
 
     }

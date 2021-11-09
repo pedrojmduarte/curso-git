@@ -13,6 +13,7 @@ namespace projeto_teste
             for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine(i);
+                Console.WriteLine(i-1);
             }
         }
 

@@ -9,6 +9,12 @@ namespace projeto_teste
             Console.WriteLine("Hello World!");
             Console.WriteLine("Tudo bem?");
             Console.WriteLine("opa?");
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
+
     }
 }
